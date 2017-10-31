@@ -1,0 +1,3 @@
+---->>la base de données 'mabase' a été realisée avec le logiciel 'DB Browser for SQLite'
+
+---->> le MCD a été réalisé avec le logiciel 'PowerAMC'
